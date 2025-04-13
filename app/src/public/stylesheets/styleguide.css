@@ -6,15 +6,18 @@
     --background-snow: #C1D2E8;
     --background-overcast: #99B7CD;
 
-    --gnb-searchbar-background : rgba(241, 241, 241, 0.5);
+    --gnb-searchbar-background : rgba(216, 216, 216, 0.5);
     
     --ffffff-30 : rgba(255, 255, 255, 0.3);
+    --ffffff-50 : rgba(255, 255, 255, 0.5);
     --ffffff-80 : rgba(255, 255, 255, 0.8);
 
     --low-gray-30 : rgba(119, 119, 119, 0.3);
 
     --gray-7 : rgba(119, 119, 119, 1);
+    --gray-7-50 : rgba(119, 119, 119, 0.5);
     --gray-5 : rgba(85, 85, 85, 1);
+    --gray-5-50 : rgba(85, 85, 85, 0.5);
     --gray-4 : rgba(68, 68, 68, 1);
 
     --star : #FCC418;
